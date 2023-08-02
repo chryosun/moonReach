@@ -1,0 +1,14 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\casti\Documents\projects\MoonReach final\MoonReach.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\casti\Documents\projects\MoonReach final\.
+Java min ver:	
+Java max ver:	
+Bundled JRE(s):	C:\Program Files\Java\jre1.8.0_361
+Check launcher:	C:\Program Files\Java\jre1.8.0_311\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_311\bin\javaw.exe
+Launcher args:	-jar "C:\Users\casti\Documents\projects\MoonReach final\MoonReach.exe"
+Args length:	70/32768 chars
+Exit code:	0
